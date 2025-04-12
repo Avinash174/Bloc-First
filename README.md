@@ -1,4 +1,4 @@
-# bloc_first
+# BLOC First
 
 A new Flutter project.
 
